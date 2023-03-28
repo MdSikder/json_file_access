@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1173219177,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Rakib123",
+            "createdAt": "2023-01-28T12:13:16.871Z",
+            "updatedAt": "2023-01-28T12:13:16.871Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        80.0,
+                        0.0
+                    ],
+                    [
+                        120.0,
+                        88.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 320
+    }
+}

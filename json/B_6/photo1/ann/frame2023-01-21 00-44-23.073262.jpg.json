@@ -1,0 +1,82 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1173259687,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "masum",
+            "createdAt": "2023-01-28T13:30:19.273Z",
+            "updatedAt": "2023-01-28T13:30:31.898Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        198.0,
+                        21.0
+                    ],
+                    [
+                        254.0,
+                        185.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1173259689,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "masum",
+            "createdAt": "2023-01-28T13:30:22.935Z",
+            "updatedAt": "2023-01-28T13:30:31.898Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        229.0,
+                        218.0
+                    ],
+                    [
+                        269.0,
+                        239.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1173259693,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "masum",
+            "createdAt": "2023-01-28T13:30:31.579Z",
+            "updatedAt": "2023-01-28T13:30:31.579Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        259.0,
+                        236.0
+                    ],
+                    [
+                        293.0,
+                        239.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 320
+    }
+}

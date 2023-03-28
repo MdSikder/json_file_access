@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "id": 137974395,
+            "tagId": 30601590,
+            "name": "skip",
+            "value": null,
+            "labelerLogin": "abunoman",
+            "createdAt": "2023-01-28T11:03:29.979Z",
+            "updatedAt": "2023-01-28T11:03:29.979Z"
+        }
+    ],
+    "description": "",
+    "objects": [
+        {
+            "id": 1173194581,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "abunoman",
+            "createdAt": "2023-01-28T11:03:13.442Z",
+            "updatedAt": "2023-01-28T11:03:13.442Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        282.0,
+                        234.0
+                    ],
+                    [
+                        290.0,
+                        239.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 320
+    }
+}

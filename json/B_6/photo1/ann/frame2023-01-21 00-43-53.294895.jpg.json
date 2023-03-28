@@ -1,0 +1,58 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1173222577,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "masum",
+            "createdAt": "2023-01-28T12:24:12.339Z",
+            "updatedAt": "2023-01-28T12:24:25.462Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        105.0,
+                        0.0
+                    ],
+                    [
+                        194.0,
+                        115.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1173222583,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "masum",
+            "createdAt": "2023-01-28T12:24:25.169Z",
+            "updatedAt": "2023-01-28T12:24:25.169Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        129.0,
+                        0.0
+                    ],
+                    [
+                        195.0,
+                        240.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 320
+    }
+}

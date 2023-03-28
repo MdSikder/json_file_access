@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "id": 137974172,
+            "tagId": 30601591,
+            "name": "problem",
+            "value": null,
+            "labelerLogin": "abunoman",
+            "createdAt": "2023-01-28T09:52:18.718Z",
+            "updatedAt": "2023-01-28T09:52:18.718Z"
+        }
+    ],
+    "description": "",
+    "objects": [
+        {
+            "id": 1173192135,
+            "classId": 11386592,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "abunoman",
+            "createdAt": "2023-01-28T09:52:16.106Z",
+            "updatedAt": "2023-01-28T09:52:16.106Z",
+            "tags": [],
+            "classTitle": "shrimp",
+            "points": {
+                "exterior": [
+                    [
+                        253.0,
+                        100.0
+                    ],
+                    [
+                        299.0,
+                        217.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 240,
+        "width": 320
+    }
+}
